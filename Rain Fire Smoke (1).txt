@@ -1,0 +1,11 @@
+A common question is how to create rain and fire in Unreal.
+
+I don't want this course to get too bulky for those of you who don't need this, so here are some of my favorite tutorials on the topic:
+
+Rain Particles by Josh - Game Dev - https://youtu.be/2dpFtqlWt1o
+
+Basic Fire by Jackson's Games - https://youtu.be/7mH4rQj5Whc
+
+If there is a need, I will create shorter, more concise tutorials on these topics. Please reach out to me if that is the case.
+
+-Daniel
